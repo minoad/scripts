@@ -1,0 +1,1000 @@
+  124  vim ~/testpy.py 
+  125  vim ~/.vimrc 
+  126  vim ~/testpy.py 
+  127  vim ~/.vimrc 
+  128  vim ~/testpy.py 
+  129  vim ~/.vimrc 
+  130  vim ~/testpy.py 
+  131  vim ~/.vimrc 
+  132  vim ~/testpy.py 
+  133  vim ~/.vimrc 
+  134  vim ~/testpy.py 
+  135  vim ~/.vimrc 
+  136  vim ~/testpy.py 
+  137  vim ~/.vimrc 
+  138  vim ~/testpy.py 
+  139  vim ~/.vimrc 
+  140  vim ~/testpy.py 
+  141  vim ~/.vimrc 
+  142  sudo apt-get install nmap
+  143  sudo apt-get install wireshark
+  144  sudo apt-get install nessus
+  145  sudo apt-get install metasplot
+  146  apt-cache search metasplo
+  147  sudo apt-get install w3af w3af-console 
+  148  apt-cache search openvas
+  149  sudo apt-get install w3af openvas-*
+  150  apt-cache search airsnor*
+  151  sudo apt-get install airsnort
+  152  apt-cache search *snor*
+  153  apt-cache search snor*
+  154  apt-cache search snort*
+  155  apt-cache search air*
+  156  apt-cache search nikt
+  157  sudo apt-get install nikto
+  158  sudo apt-get install dsniff
+  159  sudo apt-get install tcpdump
+  160  sudo apt-get install kismet
+  161  sudo apt-get install metasploit
+  162  apt-cache search metaspl
+  163  apt-cache search w3af
+  164  sudo apt-get install w3af w3af-client
+  165  sudo apt-get install w3af
+  166  sudo apt-get install hping hping2
+  167  sudo apt-get install kerberos
+  168  apt-cache search kerb
+  169  apt-cache search kerber
+  170  apt-cache search john
+  171  sudo apt-get install john
+  172  apt-cache search aircra
+  173  sudo apt-get install aircrack-ng kismet-plugins
+  174  kismet
+  175  sudo kismet
+  176  man kistmet
+  177  kismet /?
+  178  ifconfig
+  179  aircrack-ng 
+  180  cd ~/Downloads/
+  181  ls
+  182  sudo ./metasploit-latest-linux-x64-installer.run 
+  183  version
+  184  v
+  185  lsb_release 
+  186  lsb_release  -a
+  187  shutdown -f now
+  188  sudo shutdown -f now
+  189  man rbas
+  190  man rba:
+  191  quit
+  192  ecit
+  193  exit
+  194  sudo openvas-adduser 
+  195  ping mnorman07
+  196  netcat 
+  197  tcpdump 
+  198  john 
+  199  burp
+  200  sudo burp
+  201  man burp_ca 
+  202  apt-cache searck nikto
+  203  apt-cache search nikto
+  204  sudo apt-get install nikto
+  205  nikto 
+  206  nikto -list-plugins
+  207  sudo apt-get install hping
+  208  sudo apt-get install nping
+  209  nping 
+  210  w3af
+  211  sudo apt-get install scapy
+  212  w3af
+  213  sudo apt-get install python*-dev
+  214  w3af
+  215  sudo apt-get install python2.6-dev
+  216  sudo easy_install
+  217  sudo apt-get install easy_install
+  218  sudo apt-get install python2.6-*
+  219  w3af
+  220  apt-cache search pybloom*
+  221  sudo apt-get install python-pybloomfiltermmap 
+  222  w3af
+  223  sudo ps aux | grep tshar
+  224  sudo kill -9 tshark
+  225  sudo kill -9 378
+  226  sudo kill -9 381
+  227  sudo ps aux | grep tshar
+  228  sudo apt-get install burp
+  229  vim /etc/default/burp
+  230  sudo vim /etc/default/burp
+  231  burp
+  232  sudo burp
+  233  nmap 
+  234  ifconfig
+  235  man nmap 
+  236  nmap -A 192.168.1.0/24
+  237  which metasploit
+  238  cd /opt/metasploit/
+  239  ls -alht
+  240  cd scripts/
+  241  ls -alht
+  242  vi setenv.sh 
+  243  cd ..
+  244  ls
+  245  find . | grep *py
+  246  sudo find . | grep *py
+  247  ls
+  248  vim diagnostic_shell 
+  249  r
+  250  which rbash 
+  251  rbash 
+  252  man rbash 
+  253  man rstartd
+  254  rstudio 
+  255  cd ~/Downloads/
+  256  ls
+  257  bunzip2 lplinux.tar.bz2 
+  258  ls --alht
+  259  ls -alht
+  260  tar 
+  261  tar -xzvf lplinux.tar
+  262  man tar
+  263  untar
+  264  man tar
+  265  tar -x lplinux.tar 
+  266  sudo tar -x lplinux.tar 
+  267  sudo apt-get update
+  268  sudo apt-get upgrade
+  269  dig
+  270  sudo w3af
+  271  sudo tshark
+  272  sudo tshark src host intranet.neo.neohapsis.net
+  273  sudo tshark src host intranet.neo.neohapsis.net & port 80
+  274  sudo tshark src host intranet.neo.neohapsis.net and port 80
+  275  w3af_console 
+  276  sudo w3af_console 
+  277  sudo w3af
+  278  sudo tshark host intranet.neo.neohapsis.net and port http
+  279  sudo tshark host intranet.neo.neohapsis.net
+  280  sudo w3af
+  281  w3af_console 
+  282  sudo w3af_console 
+  283  w3af_console 
+  284  sudo w3af_console 
+  285  dig
+  286  apt-cache searver hydra
+  287  apt-cache search hydra
+  288  sudo apt-get install hydra
+  289  apt-cache search burp
+  290  burp
+  291  sudo burp
+  292  sudo man burp
+  293  apt-cache search burp
+  294  nikto 
+  295  nikto intranet.neo.neohapsis.net
+  296  nikto -host+ intranet.neo.neohapsis.net
+  297  nikto -host intranet.neo.neohapsis.net
+  298  apt-cache search sqlmap
+  299  sudo apt-get install sqlmap
+  300  cd Downloads/
+  301  ls
+  302  gunzip sqlmapproject-sqlmap-0.9-3544-gc51e219.tar.gz 
+  303  ls
+  304  tar -xv sqlmapproject-sqlmap-0.9-3544-gc51e219.tar 
+  305  tar -xvf sqlmapproject-sqlmap-0.9-3544-gc51e219.tar 
+  306  ls
+  307  cd sqlmapproject-sqlmap-c51e219/
+  308  ls
+  309  cd /opt/
+  310  git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+  311  sudo git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+  312  ls
+  313  cd sqlmap-dev/
+  314  ls
+  315  ./sqlmap.py 
+  316  python sqlmap.py -h
+  317  python sqlmap.py --url intranet.neo.neohapsis.net
+  318  python sqlmap.py --url helpdesk.neohapsis.net
+  319  aptcache search scara
+  320  apt-cache search scara
+  321  apt-cache search carab
+  322  apt-cache search skipfis
+  323  sudo apt-get install skipfish
+  324  skipfish 
+  325  skipfish intranet.neo.neohapsis.net
+  326  skipfish -h intranet.neo.neohapsis.net
+  327  skipfish -o ~/ intranet.neo.neohapsis.net
+  328  skipfish -o ~/skipfish intranet.neo.neohapsis.net
+  329  skipfish -o ~/skipfish http://intranet.neo.neohapsis.net
+  330  cd /home/minoad/skipfish/
+  331  ls
+  332  firefox index.html 
+  333  apt-cache search fuz
+  334  apt-cache search immuni
+  335  apt-cache search malte
+  336  apt-cache search sleut
+  337  sudo apt-get install sleuthkit 
+  338  sudo apt-get install autopsy 
+  339  curl
+  340  sudo apt-get install curl
+  341  ntop
+  342  sudo apt-get install ntop
+  343  htop
+  344  sudo apt-get install htop
+  345  htop
+  346  ntop
+  347  sudo ntop
+  348  apt-cache search p0f
+  349  sudo apt-get install p0f
+  350  apt-cache search canvas
+  351  apt-cache search canvas | grep canvas
+  352  cd opt
+  353  cd /opt
+  354  ls
+  355  sudo git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
+  356  ls
+  357  cd set/
+  358  ls
+  359  vim README.md 
+  360  python setup.py 
+  361  python setup.py install
+  362  sudo python setup.py install
+  363  mv /home/minoad/Downloads/impacket-0.9.11.tar.gz .
+  364  sudo mv /home/minoad/Downloads/impacket-0.9.11.tar.gz .
+  365  ls
+  366  gunzip impacket-0.9.11.tar.gz 
+  367  sudo gunzip impacket-0.9.11.tar.gz 
+  368  ls
+  369  tar -xvf impacket-0.9.11.tar 
+  370  sudo tar -xvf impacket-0.9.11.tar 
+  371  ls
+  372  cd impacket-0.9.11/
+  373  sudo cd impacket-0.9.11/
+  374  chow impacket-0.9.11 minioad
+  375  chown impacket-0.9.11 minoad
+  376  chown minoad impacket-0.9.11
+  377  sudo chown minoad impacket-0.9.11
+  378  cd impacket-0.9.11/
+  379  ls
+  380  python setup.py install
+  381  sudo python setup.py install
+  382  ls
+  383  cd ..
+  384  ls
+  385  sudo python setup.py install
+  386  setoolkit 
+  387  apt-cache search beef
+  388  sudo apt-get install beef
+  389  aircrack-ng 
+  390  aircrack-ng -e neo
+  391  man kismet
+  392  sudo kismet
+  393  kismet_client 
+  394  vim
+  395  tshark
+  396  sudo apt-get install tshark
+  397  tshark
+  398  man tshark
+  399  tshark -I
+  400  sudo tshark
+  401  whois
+  402  nslookup 10.9.101.53
+  403  openvas
+  404  man openvas-server
+  405  man openvasd
+  406  openvas-client 
+  407  openvasd
+  408  sudo openvasd
+  409  man kismet_server 
+  410  man kismet_server -I
+  411  man kismet_server -C
+  412  kismet_server -I
+  413  vim /etc/kismet/kismet.conf 
+  414  ifconfig
+  415  vim /etc/kismet/kismet.conf 
+  416  sudo vim /etc/kismet/kismet.conf 
+  417  kismet_server -I
+  418  sudo apt-get update
+  419  sudo apt-get upgrade
+  420  man restart
+  421  sudo apt-get update
+  422  sudo apt-get upgrade
+  423  sudo shutdown -f now
+  424  free -m
+  425  exit
+  426  sudo apt-get update
+  427  sudo apt-get upgrade
+  428  exit
+  429  apt-cache show
+  430  apt-cache showpkg 
+  431  exit
+  432  vim
+  433  vim
+  434  which bash
+  435  vim grep_for_dot_files.sh 
+  436  chmod +x grep_for_dot_files.sh 
+  437  which bash
+  438  ls
+  439  ./grep_for_dot_files.sh 
+  440  vim grep_for_dot_files.sh 
+  441  sudo find . | egrep \/"\."[a-z]+$
+  442  cd /
+  443  sudo find . | egrep \/"\."[a-z]+$
+  444  exit
+  445  sudo htop
+  446  netstat
+  447  netstat -l
+  448  netstat -l | grep LISTEN
+  449  exit
+  450  man dpkg 
+  451  dpkg
+  452  dpkg | less
+  453  dpkg --get-selections 
+  454  dpkg --get-selections | less
+  455  dpkg --get-selections | more
+  456  dpkg --get-selections | grep -v deinstall
+  457  dpkg --get-selections | grep -v deinstall | less
+  458  man account-plugin-facebook
+  459  vim /etc/vim/vimrc.tiny 
+  460  sudo apt-get install vim-*
+  461  vim-addons 
+  462  ls
+  463  vim
+  464  ls
+  465  cp -r ../minoad/.vim* /tmp/
+  466  ls /tmp/
+  467  ls -alht /tmp/
+  468  cd /opt/
+  469  hq
+  470  man bg
+  471  bf
+  472  bg
+  473  hg
+  474  hg ckone https://vim.googlecode.com/hg vim
+  475  sudo apt-get mercurial
+  476  sudo apt-get isntall mercurial
+  477  sudo apt-get install mercurial
+  478  hg clone https://vim.googlecode.com/hg vim
+  479  sudo hg clone https://vim.googlecode.com/hg vim
+  480  cd vim/src/
+  481  sudo ./configure --enable-pythoninterp --with-features=huge --prefix=$HOME/opt/vim
+  482  make
+  483  sudo make
+  484  which vim
+  485  make install
+  486  sudo make install
+  487  mkdir -p $HOME/bin
+  488  cd /home/minoad/bin/
+  489  la
+  490  ls
+  491  ln -s /home/minoad/opt/vim/bin/vim
+  492  which vim
+  493  vim --version
+  494  sudo apt-get install gtk2-engines-pixbuf 
+  495  vim
+  496  vim --version | grep -
+  497  vim --version 
+  498  sudo find / | grep vim
+  499  ls
+  500  cd /$HOME
+  501  ls
+  502  git init
+  503  git remote add origin https://github.com/minoad/random_stuff.git
+  504  git -add -A
+  505  git add -A
+  506  sudo git add -A
+  507  ls -alht
+  508  cd .git
+  509  ls -alht
+  510  vi index 
+  511  vim index 
+  512  top index 
+  513  cat index | top 5
+  514  cat index | top 50
+  515  cat index | -top 50
+  516  awk 1:5
+  517  cat index awk '1:5'
+  518  cat index| awk '1:5'
+  519  head index 10
+  520  head -10 index
+  521  cks
+  522  cls
+  523  cat index 
+  524  vim index 
+  525  cd ..
+  526  ls -alht
+  527  man git clean 
+  528  man git blamee
+  529  man git blame
+  530  git init
+  531  vim .git/index 
+  532  rm -rf .git/
+  533  git init
+  534  ls -alht
+  535  ls -alht | less
+  536  ls -alh
+  537  ls -alh | less
+  538  rm -rf Kism*
+  539  ls -alh | less
+  540  ls -alh
+  541  history | grep add
+  542  git remote add origin https://github.com/minoad/random_stuff.git
+  543  man git add 
+  544  sudo git add .vim*
+  545  vim .git/index 
+  546  sudo git rm *Kism*
+  547  sudo git rm -f *Kism*
+  548  rm -rf .vim/Kis*
+  549  vim .git/index 
+  550  gi
+  551  t
+  552  git commit -m "Vim config"
+  553  git config --global user.email "minoad@gmail.com"
+  554  git config --global user.name "Micah Norman"
+  555  git commit -m "Vim config"
+  556  sudo git commit -m "Vim config"
+  557  git pull origin master
+  558  sudo git pull origin master
+  559  sudo git push
+  560  ls
+  561  vi README.md 
+  562  sudo vi README.md 
+  563  git whatchanged 
+  564  git log 
+  565  man git add 
+  566  man git add --update 
+  567  sudo git add --update 
+  568  sudo git push 
+  569  sudo git commit -m "validated" 
+  570  sudo git push 
+  571  sudo git whatchanged 
+  572  sudo vi README.md 
+  573  sudo git show
+  574  sudo git push
+  575  git show
+  576  sudo git status
+  577  find .
+  578  find . | grep "/."
+  579  find . | grep "/d"
+  580  find . | grep "\."
+  581  find . | grep "\./w"
+  582  sudo find . | grep "\./w"
+  583  sudo find . | grep "\."
+  584  sudo find . | grep "\.[a-zA-Z]+"
+  585  sudo find . | grep "\.[a-z]+"
+  586  sudo find . | grep '\.[a-z]+'
+  587  sudo find . | grep \.[a-z]+
+  588  sudo find . | grep '\.[a-z]'+
+  589  sudo find . | grep \.'[a-z]'+
+  590  sudo find . | egrep \.[a-z]+
+  591  sudo find . | egrep \.[a-z]+/s
+  592  sudo find . | egrep \.[a-z]+\s
+  593  sudo find . | egrep $
+  594  sudo find . | egrep f$
+  595  sudo find . | egrep \.[a-z]+$
+  596  sudo find . | egrep \/\.[a-z]+$
+  597  sudo find . | egrep \/"\."[a-z]+$
+  598  sudo find . | egrep \/"\.""vim .git/index "+$
+  599  sudo find . | egrep \/"\.""vim" .git/index "+$
+  600  sudo find . | egrep \/"\.""vim" .git/index "+$
+  601  sudo find . | egrep \/"\."[a-z]+$
+  602  sudo find . | egrep \/"\."[a-z]+$ | cat
+  603  sudo find . | egrep \/"\."[a-z]+$ 
+  604  vim ./.kismet/
+  605  sudo find .
+  606  man find
+  607  find -type f
+  608  sudo find . | egrep \/"\."[a-z]+$ 
+  609  sudo find . -type f | egrep \/"\."[a-z]+$ 
+  610  pwd
+  611  cd R
+  612  cd sample/
+  613  wget http://www.mayin.org/ajayshah/KB/R/html/b1.html
+  614  mv b1.html b1.R
+  615  r matrix.R 
+  616  R 
+  617  R matrix.R
+  618  R cmd batch matrix.R
+  619  R
+  620  cd ..
+  621  git add vim_cheat 
+  622  git commit -m "added vim cheatsheat"
+  623  sudo git commit -m "added vim cheatsheat"
+  624  sudo git push
+  625  R
+  626  cd R/sample/
+  627  vim ~/screen_cheat
+  628  eix
+  629  exit
+  630  pwd
+  631  sudo git rm .cache*
+  632  sudo git -r rm .cache*
+  633  sudo git rm .cache/*
+  634  sudo git rm .cache/* -r
+  635  sudo git rm *pb
+  636  sudo git --cached rm *pb
+  637  sudo git rm --cached *pb
+  638  sudo git rm --cached .cache
+  639  sudo git rm --cached -r .cache
+  640  sudo git rm --cached -rf .cache
+  641  sudo git rm --cached -rf .compiz
+  642  sudo git rm --cached -rf *google-chrome*
+  643  sudo git rm --cached -rf *gnome*
+  644  sudo git rm --cached -rf *pulse*
+  645  sudo git rm --cached -rf *compiz*
+  646  sudo git rm --cached -rf *gtk*
+  647  sudo git
+  648  cd R/
+  649  ls
+  650  mkdir sample
+  651  cd sample/
+  652  wget http://www.thegeekstuff.com/2011/10/grep-or-and-not-operators/
+  653  vim index.html 
+  654  exit
+  655  ls
+  656  git add vim_cheat 
+  657  sudo git merge -m 
+  658  sudo git merge -m "added screen cheat"
+  659  ls
+  660  git commit -m "added screen cheat"
+  661  sudo git commit -m "added screen cheat"
+  662  sudo git push
+  663  git add screen_cheat 
+  664  sudo git commit -m "added screen cheat"
+  665  sudo git push
+  666  screen --version
+  667  exit
+  668  vim
+  669  cls
+  670  clear
+  671  ls
+  672  vim vim_cheat 
+  673  exit
+  674  sudo apt-get update
+  675  sudo git add R/week2/
+  676  sudo git commit -m "Week 2 R programming"
+  677  sudo git push
+  678  exit
+  679  ls
+  680  cd R/week2/
+  681  wget https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip
+  682  unzip rprog%2Fdata%2Fspecdata.zip 
+  683  ls
+  684  ls specdata/
+  685  cd ..
+  686  sudo git update
+  687  sudo git add -u
+  688  sudo git merge -m "omework"
+  689  sudo git commit -m "omework"
+  690  sudo git merge
+  691  sudo git push
+  692  exit
+  693  vim
+  694  cd R/week2/
+  695  ls
+  696  vim
+  697  :q
+  698  exit
+  699  ifconfig
+  700  ifconfig | less
+  701  clear
+  702  cd R/
+  703  ls
+  704  mkdir week2
+  705  cd week2/
+  706  ls
+  707  ls 
+  708  sudo git add 
+  709  ls
+  710  R
+  711  exit
+  712  screen
+  713  exit
+  714  screen
+  715  sudo apt-cache search libcurl
+  716  sudo apt-get libcurl3
+  717  sudo apt-get install libcurl3
+  718  sudo apt-get install libcurl4
+  719  sudo apt-get install libcurl4*
+  720  sudo apt-get install libcurl4-nss-dev 
+  721  sudo apt-get install libcurl4-openssl-dev 
+  722  sudo apt-get install libcurl4*
+  723  cd R/week2/
+  724  ls -alht
+  725  mv core.R corr.R
+  726  ls -alht
+  727  sudo sh -c 'echo "deb http://cran.rstudio.com/bin/linux/ubuntu precise/" >> /etc/apt/sources.list'
+  728  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+  729  sudo apt-get update
+  730  sudo apt-get upgrade
+  731  sudo apt-get autoremove 
+  732  sudo apt-get upgrade
+  733  screen
+  734  vim
+  735  ls
+  736  cd R
+  737  ls
+  738  mv week2/ /tmp
+  739  ls
+  740  ls sample/
+  741  mv sample/ /tmp
+  742  ls
+  743  git init
+  744  ls
+  745  cd datasciencecoursera/
+  746  ls
+  747  cd r_programming/
+  748  ls
+  749  mv /tmp/week2/ .
+  750  mv /tmp/sample/* .
+  751  ls
+  752  mv b1.r week1
+  753  ls
+  754  mv b1.R week1
+  755  cat index.html 
+  756  mv index.html week1
+  757  mv matrix.R week
+  758  mv matrix.R week1
+  759  ls
+  760  mv week week1/matrix.R
+  761  ls
+  762  mv m2.R week1/
+  763  ls
+  764  git add -U
+  765  git add -u
+  766  git commit -m "added week 2; prepped home linux laptp[p"
+  767  git add -u
+  768  git add -A
+  769  git commit -m "added week 2; prepped home linux laptp[p"
+  770  git pushw
+  771  git push
+  772  cd week2
+  773  ls
+  774  mkdir prog_assignment
+  775  cd prog_assignment/
+  776  cd ..
+  777  rm -rf prog_assignment/
+  778  git clone https://github.com/minoad/ProgrammingAssignment2
+  779  ls
+  780  cd ..
+  781  ls
+  782  tree
+  783  sudo apt-get install tree
+  784  tree
+  785  tree | grep -v .csv
+  786  ls
+  787  rm -rf r_programming/week2/ProgrammingAssignment2/
+  788  cd r_programming/week3
+  789  git clone https://github.com/minoad/ProgrammingAssignment2
+  790  ls
+  791  cd ProgrammingAssignment2/
+  792  ls
+  793  vim README.md 
+  794  ls
+  795  git remote add https://github.com/minoad/ProgrammingAssignment2
+  796  git remote add origin https://github.com/minoad/ProgrammingAssignment2
+  797  cd ../../
+  798  cd ..
+  799  ls
+  800  git add -A
+  801  git commit -m "Ready for week 2 assingment git"
+  802  git push
+  803  git add -A
+  804  git commit -m "updates then reboot"
+  805* git add
+  806  git commit -am "updates then reboot"
+  807  git add r_programming/week3/ProgrammingAssignment2/*
+  808  git add r_programming/week3/ProgrammingAssignment2/
+  809  git status
+  810  git add -A
+  811  git status
+  812  git add -A r_programming/week3/ProgrammingAssignment2/
+  813  git status
+  814  git add -u
+  815  git status
+  816  git add -A r_programming/week3/ProgrammingAssignment2/cachematrix.R 
+  817  cd r_programming/week3/
+  818  ls
+  819  cd ProgrammingAssignment2/
+  820  git submodule add
+  821  cd ..
+  822  git submodule add r_programming/week3/ProgrammingAssignment2/
+  823  git submodule add ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  824  ls r_programming/week3/ProgrammingAssignment2/
+  825  ls -al r_programming/week3/ProgrammingAssignment2/
+  826  git status
+  827  cat .gitmodules 
+  828  vim .gitmodules 
+  829  git status
+  830  get diff
+  831  git diff
+  832  git diff --cached ProgrammingAssingment2
+  833  git commit -am "submodulized"
+  834  git push
+  835  vim r_programming/week3/ProgrammingAssignment2/test.txt
+  836  git add -am "test of submod"
+  837  git commit -am "test of submod"
+  838  vim .gitmodules 
+  839  rm -rf ProgrammingAssignment2/
+  840  ls
+  841  cd ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  842  cd ..
+  843  ls
+  844  vim .gitmodules 
+  845  git staust
+  846  git status
+  847  git commit -am "submod 2"
+  848  git push
+  849  ls
+  850  cd r_programming/
+  851  ls
+  852  ls week3/ProgrammingAssignment2/
+  853  git status
+  854  git add -A
+  855  git status
+  856  cd week3/ProgrammingAssignment2/
+  857  git submodule add
+  858  rm -rf ../../../.gitmodules 
+  859  cd ../../../
+  860  ls
+  861  git status
+  862  git -A
+  863  git add -A
+  864  git commit -m "removed submod"
+  865  git push
+  866  git status
+  867  cd r_programming/week3/ProgrammingAssignment2/
+  868  git submodule add https://github.com/minoad/ProgrammingAssignment2 ../ProgrammingAssignment2/
+  869  cd ..
+  870  ls
+  871  git submodule add https://github.com/minoad/ProgrammingAssignment2 ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  872  ls -al
+  873  ls -al .git
+  874  git rm ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  875  git submodule add https://github.com/minoad/ProgrammingAssignment2 ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  876  git rm ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  877  git rm -rf ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  878  git submodule status 
+  879  rm -rf .git/modules/
+  880  git submodule add https://github.com/minoad/ProgrammingAssignment2 ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  881  git rm -rf ~/R/datasciencecoursera/r_programming/week3/ProgrammingAssignment2/
+  882  cd r_programming/week3/ProgrammingAssignment2/
+  883  ls
+  884  git submodule add https://github.com/minoad/ProgrammingAssignment2 ProgrammingAssignment2/
+  885  ls
+  886  cd ..
+  887  ls
+  888  rm -rf ProgrammingAssignment2/
+  889  ls
+  890  git submodule add https://github.com/minoad/ProgrammingAssignment2 ProgrammingAssignment2/
+  891  ls
+  892  git submodule add https://github.com/minoad/ProgrammingAssignment2 ProgrammingAssignment2/
+  893  git rm ProgrammingAssignment2/
+  894  ls
+  895  git submodule add https://github.com/minoad/ProgrammingAssignment2 ProgrammingAssignment2/
+  896  ls
+  897  ls ProgrammingAssignment2/
+  898  ls -al 
+  899  ls -al ProgrammingAssignment2/
+  900  cd ../../
+  901  ls
+  902  git -A
+  903  git add -A
+  904  git -u
+  905  git add -u
+  906  git commit -m "sub again.  stupid pathing rules"
+  907  git push
+  908  git status
+  909  vim r_programming/week3/ProgrammingAssignment2/test.up
+  910  git commit -am "added test file"
+  911  cd r_programming/week3/ProgrammingAssignment2/
+  912  git submodule sync 
+  913  git submodule update
+  914  git commit -am "upo"
+  915  git add -A
+  916  git commit -am "upo"
+  917  git push
+  918  git status
+  919  cd ../
+  920  cd ..
+  921  ls
+  922  git add -A
+  923  git commit -m "final up"
+  924  git push
+  925  sudo apt-get update
+  926  sudo vim /etc/apt/sources.list
+  927  sudo apt-get update
+  928  sudo apt-get upgrade
+  929  sudo reboot -f
+  930  sudo apt-get update
+  931  dpkg --status
+  932  dpkg --list
+  933  history | grep dpkg
+  934  dpkg --get-selections | grep -v deinstall
+  935  dpkg --get-selections | grep -v deinstall | less
+  936  dpkg --get-selections | grep -v deinstall | grep -i open
+  937  dpkg --get-selections | grep -v deinstall | grep -i openvas
+  938  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1
+  939  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/\n/','//'
+  940  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed "s/\n/,/"
+  941  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed "s//n/,/"
+  942  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed "s/'/n'/,/"
+  943  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed "s//n/,/"
+  944  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed "s/\n/,/"
+  945  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/\n/,/'
+  946  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/n/,/'
+  947  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/\n/,/'
+  948  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/$/,/'
+  949  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | sed 's/\n/ /'
+  950  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ,
+  951  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ', '
+  952  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ', ' 
+  953  cd ..
+  954  git clone git@github.com:minoad/scripts.git
+  955  cd ~/.ssh
+  956  ls
+  957  ls -al
+  958  ssh-keygen -t rsa -c "minoad@gmail.com"
+  959  ssh-keygen -t rsa -C "minoad@gmail.com"
+  960  ssh-add id_rsa
+  961  sudo apt-get xclip
+  962  sudo apt-get install xclip
+  963  xclip -sel clip < id_rsa.pub 
+  964  git clone git@github.com:minoad/scripts.git
+  965  cd ~
+  966  ls
+  967  ls R
+  968  cd R/
+  969  ls -al
+  970  cd .git/
+  971  ls
+  972  grep github.com *
+  973  grep -r github.com *
+  974  cd ..
+  975  l.s
+  976  ls
+  977  cd datasciencecoursera/
+  978  ls
+  979  ls -al
+  980  grep -r github.com *
+  981  git remote set-url origin ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCSFRt4lvt/QJxZGjXOeRcIX2WncsW5tTIn57UkS1eRBGGU4KS1NbWtbzOKWha88jMCPdYURxfV12NF0naANuxEiiJ7gspZPvPNq6K0nmU2fuoXvhSW0q6d7l8Xg0G6jiF5fRTdkEdJigG01/V7XlhLYA+71QdQV/6v/CZMgB7r891ooQZ1FZRv1cNpbLILK/cWMusAh9CdO7PdFMw/5CUHOFHcEHxYjOZ/twZU4B4myf4M8lDgjY65rkxr9aEXIy+xP83hkS7ThS7/S+KEkuaUHknAnGK+w0Xk3aQuf3S395amQ9c2Hg40SeIhxC48HnBUZD/cJbqnRJNOpeqw/AQB minoad@gmail.com
+  982  git remote set-url origin --delete https://github.com/minoad/datasciencecoursera
+  983  git remote set-url origin add
+  984  git remote set-url origin add ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCSFRt4lvt/QJxZGjXOeRcIX2WncsW5tTIn57UkS1eRBGGU4KS1NbWtbzOKWha88jMCPdYURxfV12NF0naANuxEiiJ7gspZPvPNq6K0nmU2fuoXvhSW0q6d7l8Xg0G6jiF5fRTdkEdJigG01/V7XlhLYA+71QdQV/6v/CZMgB7r891ooQZ1FZRv1cNpbLILK/cWMusAh9CdO7PdFMw/5CUHOFHcEHxYjOZ/twZU4B4myf4M8lDgjY65rkxr9aEXIy+xP83hkS7ThS7/S+KEkuaUHknAnGK+w0Xk3aQuf3S395amQ9c2Hg40SeIhxC48HnBUZD/cJbqnRJNOpeqw/AQB minoad@gmail.com
+  985  git remote set-url add origin git@github.com:minoad/datasciencecoursera.git
+  986  git remote set-url --add origin git@github.com:minoad/datasciencecoursera.git
+  987  git remote set-url --delete origin https://github.com/minoad/datasciencecoursera.git
+  988  git remote show
+  989  git remote show origin
+  990  ls
+  991  cd ..
+  992  ls
+  993  mv datasciencecoursera/ datasciencecourseraold/
+  994  git clone https://github.com/minoad/datasciencecoursera.git
+  995  cd datasciencecoursera
+  996  ls
+  997  cd r_programming/
+  998  ls
+  999  cd week3/
+ 1000  ls
+ 1001  cd ProgrammingAssignment2/
+ 1002  ls
+ 1003  cd ..
+ 1004  ls
+ 1005  rm -rf ProgrammingAssignment2/
+ 1006  ls
+ 1007  git submodule add https://github.com/minoad/ProgrammingAssignment2.git
+ 1008  git submodule deinit 
+ 1009  git submodule deinit .
+ 1010  git submodule add https://github.com/minoad/ProgrammingAssignment2.git
+ 1011  cd ..
+ 1012  ls
+ 1013  cd r_programming/
+ 1014  ls
+ 1015  cd ..
+ 1016  ls -al
+ 1017  rm -rf .gitmodules 
+ 1018  cd r_programming/week3/
+ 1019  ls
+ 1020  ls ProgrammingAssignment2/
+ 1021  rm -rf ProgrammingAssignment2/
+ 1022  ls
+ 1023  git submodule add https://github.com/minoad/ProgrammingAssignment2.git
+ 1024  git rm r_programming/week3/ProgrammingAssignment2
+ 1025  cd ..
+ 1026  git rm r_programming/week3/ProgrammingAssignment2
+ 1027  cd ..
+ 1028  git rm r_programming/week3/ProgrammingAssignment2
+ 1029  cd r_programming/week3/
+ 1030  git submodule add https://github.com/minoad/ProgrammingAssignment2.git
+ 1031  cd ..
+ 1032  cd datasciencecoursera
+ 1033  ls
+ 1034  git -A
+ 1035  git add -A
+ 1036  ls r_programming/week3/ProgrammingAssignment2/
+ 1037  git commit -m "redo to use ssh "
+ 1038  git push
+ 1039  git remote update 
+ 1040* git remote 
+ 1041  git push
+ 1042  git remote set-url origin git@github.com:minoad/datasciencecoursera.git
+ 1043  git push
+ 1044  git status
+ 1045  git log
+ 1046  ls
+ 1047  cd r_programming/week3/ProgrammingAssignment2/
+ 1048  ls
+ 1049  git submodule sync 
+ 1050  git submodule status
+ 1051  ls
+ 1052  vim test.up 
+ 1053  cd ../
+ 1054  cd ..
+ 1055  git add -A
+ 1056  git status
+ 1057  git commit -m "fin"
+ 1058  git commit -am "fin"
+ 1059  git submodule update
+ 1060  git submodule sync
+ 1061  git commit -am "fin"
+ 1062  git push
+ 1063  git status
+ 1064  git commit -a
+ 1065  cd week3/ProgrammingAssignment2/
+ 1066  git add .
+ 1067  git commit -m "added sub to local repo"
+ 1068  cd ..
+ 1069  git add ProgrammingAssignment2/
+ 1070  git commit -m "sub added to proj"
+ 1071  cd ..
+ 1072  git push
+ 1073  git status
+ 1074  vim week3/ProgrammingAssignment2/tst2.up
+ 1075  cd ..
+ 1076  git add -u
+ 1077  git commit -a
+ 1078  git submodule update 
+ 1079  git submodule sync
+ 1080  ls r_programming/week3/ProgrammingAssignment2/
+ 1081  git add -A
+ 1082  git commit -m "n"
+ 1083  cd r_programming/week3/ProgrammingAssignment2/
+ 1084  ls
+ 1085  git add .
+ 1086  git commit -m "m"
+ 1087* git clone
+ 1088  git remote set-url origin git@github.com:minoad/ProgrammingAssignment2.git
+ 1089  git push
+ 1090  cd .
+ 1091  cd ..
+ 1092  git -A
+ 1093  git add -A
+ 1094  git commit -a
+ 1095  git push
+ 1096  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ,
+ 1097  dpkg --get-selections | grep -v deinstall | grep -i openvas | cu
+ 1098  cd ..
+ 1099  ls
+ 1100  git clone git@github.com:minoad/scripts.git
+ 1101  cd scripts/
+ 1102  ls
+ 1103  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ,
+ 1104  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' , > openvas_packages
+ 1105  ls
+ 1106  cat openvas_packages 
+ 1107  echo openvas_packages 
+ 1108  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ' '
+ 1109  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ' ' > openvas_packages 
+ 1110  cat openvas_packages 
+ 1111  echo openvas_packages 
+ 1112  cat openvas_packages 
+ 1113  sudo apt-get remove libopenvas2-* openvas*
+ 1114  sudo apt-get remove libopenvas2-* 
+ 1115  dpkg --get-selections | grep -v deinstall | grep -i openvas | cut -f1 | tr '\n' ' ' 
+ 1116  sudo apt-get remove openvas-client 
+ 1117  sudo yum upgarde
+ 1118  sudo apt-get autoremove
+ 1119  git push
+ 1120  git add -A
+ 1121  git commit -a
+ 1122  git push
+ 1123  history > _hist_home1
